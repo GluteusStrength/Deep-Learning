@@ -1,2 +1,2 @@
 # Deep-Learning-projects
-some projects based on deep neural network
+completed or continuing projects based on deep neural network
